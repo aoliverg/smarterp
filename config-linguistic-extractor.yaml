@@ -1,0 +1,8 @@
+project_name: statistical.sqlite
+lang: en
+n_min: 2
+n_max: 3
+min_freq: 2
+POS_patterns: POS-patterns.txt
+show_frequency: True
+   # True of False
